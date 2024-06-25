@@ -1,2 +1,4 @@
 # ATTech
-Atarifi Tech Engine
+Advanced Tarifi Tech Engine
+
+is this really "advanced" prolly not tbh its just a name.
